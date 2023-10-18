@@ -1,0 +1,2 @@
+class SUV < Vehicle
+end

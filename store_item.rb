@@ -1,6 +1,7 @@
 require "./sedan.rb"
 require "./suv.rb"
 require "./truck.rb"
+require "./vehicle.rb"
 
 item1 = Sedan.new("Toyota", "Corolla", "2023", "Black", "82384283235349")
 item1.print_info
